@@ -1,6 +1,5 @@
 # What is this
-Here you can see example of Nwave GraphQL API client.
-It enables to get occupancy data by demand or subscribe on occupancy data changing notification.
+This is an example of simple Nwave GraphQL API client. It enables to get the occupancy data on demand or subscribe to occupancy data change notifications.
 
 # Preparation
 1. Install Python 3 and Pip
